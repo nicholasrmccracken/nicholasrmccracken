@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/112589972/225655478-a35873bb-3edd-4790-9ab0-339550db37f8.jpeg)
 
 ## About
-Hello! My name is Nicholas McCracken. I am a student at Ohio State University pursuing an Honors B.S. in Computer Science and Engineering and an intended B.S. in Theoretical Mathematics. I am an aspiring software engineer with interests in software design, robotics, and entrepreneurship.
+Hello! My name is Nicholas McCracken. I am a student at Ohio State University pursuing an Honors B.S. in Computer Science and Engineering and an intended B.S. in Theoretical Mathematics. I am an aspiring software engineer with experience in software design, robotics, and entrepreneurship.
 
 ## Tech
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
