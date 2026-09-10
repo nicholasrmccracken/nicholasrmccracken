@@ -2,10 +2,6 @@
 
 # 🏰 Nicholas McCracken
 
-*Backend systems, applied AI, and the occasional side quest.*
-
-### 🌲 Connect at the Tavern
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_the_Realm-1B5E20?style=for-the-badge&logo=leaflet&logoColor=white)](https://nicholasmccracken.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasrmccracken/)
 [![Email](https://img.shields.io/badge/Email-Send_a_Raven-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholas.r.mccracken@gmail.com)
@@ -22,11 +18,11 @@ Hey, I’m Nicholas. I’m finishing my M.S. in Computer Science at Ohio State, 
 
 | | Technologies |
 |---|---|
-| **Languages** | Python, TypeScript, JavaScript, Ruby, Kotlin, Java, SQL |
-| **Web & mobile** | React, Next.js, Flask, Ruby on Rails, Tailwind CSS, Android |
-| **AI & data** | PyTorch, Hugging Face, Tinker, PEFT/LoRA, LangChain, NumPy, pandas, scikit-learn |
-| **Storage & services** | SQLite, Elasticsearch, Firebase Authentication, Cloud Firestore, OpenAI API |
-| **Tools** | Git, Jupyter, Gradle, Bundler |
+| **Languages** | Python, SQL, Java, JavaScript, TypeScript, C#, C++, C, Kotlin, Ruby, MATLAB |
+| **AI, ML & data** | Machine Learning, LLMs, Multi-Agent Systems, PyTorch, TensorFlow, Keras, Hugging Face, PySpark, Databricks, Tinker, PEFT/LoRA, LangChain, RAG, Vector & Hybrid Search, ETL, NumPy, pandas, scikit-learn |
+| **Web, mobile & graphics** | React, Next.js, Node.js, Express, Flask, REST APIs, Plotly Dash, PyQt, Ruby on Rails, Tailwind CSS, Android, Retrofit, Unity |
+| **Databases & services** | PostgreSQL, SQLite, SQL Server, Elasticsearch, Firebase Authentication, Cloud Firestore, OpenAI API |
+| **Cloud, DevOps & testing** | AWS, Docker, Kubernetes, Jenkins, CI/CD, PyTest, Selenium, Git, Linux, Jupyter, Gradle, Bundler |†
 
 ## 🗺️ Featured Quests
 
@@ -62,8 +58,6 @@ A collaborative Rails app for managing group trips, recording shared expenses, a
 
 <div align="center">
 
-### 🗡️ Thanks for stopping by my corner of the realm 🗡️
-
-*May your builds pass and your merge conflicts be few.* ✨
+### 🗡️ Thanks for stopping by 🗡️
 
 </div>
